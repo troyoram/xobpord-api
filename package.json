@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "8.9.1"
+  },
   "name": "xobpord-api",
   "version": "0.0.1",
   "description": "",
